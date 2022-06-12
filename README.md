@@ -37,6 +37,18 @@ NewRepoTemplate
   ![image](https://user-images.githubusercontent.com/94276146/173215190-8d0f4114-eeb1-4452-b89a-7f6b9ea97a58.png)
   
   
+    
+## 请作者喝杯咖啡 (进微信交流群)～ ☕
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<!-- </table> -->
+|    支付宝赞助码     |  微信赞助码   |    微信交流群(活码, 失效请微信搜索关注公众号: AksCat)   | Telegram 群组(https://t.me/github_chats) |
+| ----------- | ----------- |  ----------- | ----------- |
+| ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/4B6DD0C1-8ECE-4C09-A0F7-3B6A36F399E7.jpeg)  | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/cli_wechat.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/tggroup.png) |
+
+<br>
+  
   
 
 ## 补充说明
