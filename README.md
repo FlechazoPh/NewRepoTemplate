@@ -84,5 +84,4 @@ NewRepoTemplate 描述
 
 ## ★ Star 趋势 / Stargazers Over Time
 
-[![Stargazers over time](https://starchart.cc/FlechazoPh/NewRepoTemplate.svg)](https://starchart.cc/FlechazoPh/NewRepoTemplate)
-
+[![Stargazers over time](https://starchart.cc/FlechazoPh/AwesomeScripts.svg)](https://starchart.cc/FlechazoPh/AwesomeScripts)
