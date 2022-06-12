@@ -1,9 +1,9 @@
 # NewRepoTemplate
-NewRepoTemplate 描述
+NewRepoTemplate
 
 
 # 描述
-NewRepoTemplate 描述
+本项目是 NewRepoTemplate
 
 # 软件功能
 - 支持对安装包格式选择
